@@ -1,0 +1,21 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+list-style: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000;
+}
+
+
+.main-box{
+    width: 100%;
+    max-width: 1596px;
+    margin: 0 auto;
+}
